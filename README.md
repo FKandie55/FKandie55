@@ -23,7 +23,6 @@
 
 -  Learning frameworks 🖥️ 
 - 👨🏽‍💻👩🏼‍💻 working on Open-source web projects 
-- 💻 Learning web3 & NodeJS
 - 📫 Reach me by email at **FKandie55@gmail.com**
 - ♻️ View my portfolio **https://fkandie55.github.io/**
 ## Tools & Languages
