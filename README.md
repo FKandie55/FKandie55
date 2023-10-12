@@ -4,7 +4,7 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=FKandie&label=Profile%20views&color=2E8B57&style=flat" alt="FKandie" /> </p>
 
-[![Status](https://img.shields.io/badge/Role-Web Developer%20-2E8B57.svg)](https://github.com/FKandie)
+[![Status](https://img.shields.io/badge/Role-Developer%20-2E8B57.svg)](https://github.com/FKandie)
 
 <h2>Badges</h2>
 <p align="left">
