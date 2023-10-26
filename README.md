@@ -1,6 +1,6 @@
 # Hi, I'm Felix Kandie
 <a href="https://wa.me/+254703882818"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-2E8B57?style=for-the-badge&logo=whatsapp"></a>
-[![Twitter Follow](https://img.shields.io/twitter/follow/felixkandie_?color=1DA1F2&logo=X&style=for-the-badge)](https://X.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2felixkandie_&screen_name=felixkandie_)
+[![Twitter Follow](https://img.shields.io/X/follow/felixkandie_?color=1DA1F2&logo=X&style=for-the-badge)](https://X.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2felixkandie_&screen_name=felixkandie_)
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=FKandie55&label=Profile%20views&color=2E8B57&style=flat" alt="FKandie55" /> </p>
 
