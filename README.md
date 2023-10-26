@@ -1,6 +1,4 @@
 # Hi, I'm Felix Kandie
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=FKandie55&data=followers,repositories,stars,commits&bg_color=2E8B57)](https://github.com/FKandie55)
-
 <a href="https://wa.me/+254703882818"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-2E8B57?style=for-the-badge&logo=whatsapp"></a>
 [![Twitter Follow](https://img.shields.io/twitter/follow/felixkandie_?color=1DA1F2&logo=X&style=for-the-badge)](https://X.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2felixkandie_&screen_name=felixkandie_)
 <p align="left"> 
