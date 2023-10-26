@@ -8,11 +8,11 @@
 
 <h2>Badges</h2>
 <p align="left">
-<a href="https://github.com/FKandie55"><img alt="FKandie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FKandie55&show_icons=true&count_private=true&theme=react&hide_border=true&icon_color=df4835&title_color=df4835&bg_color=2E8B57"/></a>
+<a href="https://github.com/FKandie55"><img alt="FKandie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FKandie55&show_icons=true&count_private=true&theme=react&hide_border=true&icon_color=1e1c1d&title_color=1e1c1d&bg_color=2E8B57"/></a>
 </p>
 <p align="left">
 <h2> 📊My Github Stats</h2>
-<a href="https://github.com/FKandie55"><img alt="FKandie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKandie55&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&title_color=FFFF00&bg_color=2E8B57" width="300px"/></a>
+<a href="https://github.com/FKandie55"><img alt="FKandie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKandie55&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&title_color=1e1c1d&bg_color=2E8B57" width="300px"/></a>
 </p>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
